@@ -6,15 +6,14 @@ This Starter Code has already implemented the functionalities you implemented in
 
 ### Project Submission Info
 
-**Solution:**
-**Token Name**
+#### Token Name
 - StarToken
-**Token Symbol**
+#### Token Symbol
 - STAR
-**Version of the Truffle and OpenZeppelin used**
+#### Version of the Truffle and OpenZeppelin used
 - Truffle v5.1.14-nodeLTS.0 (core: 5.1.13)
 - OpenZeppelin version: @openzeppelin/contracts 2.5.1
-**Your Token Address on the Rinkeby Network**
+#### Your Token Address on the Rinkeby Network
 - 0x3ffa57c476d290ef28ab148ddaa9e3d10754132d
 
 ### Dependencies
