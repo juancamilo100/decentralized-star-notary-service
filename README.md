@@ -4,7 +4,17 @@
 ### ToDo
 This Starter Code has already implemented the functionalities you implemented in the StarNotary (Version 2) exercise, and have comments in all the files you need to implement your tasks.
 
+### Project Submission Info
 
+Token Name
+- StarToken
+Token Symbol
+- STAR
+Version of the Truffle and OpenZeppelin used
+- Truffle v5.1.14-nodeLTS.0 (core: 5.1.13)
+- OpenZeppelin version: @openzeppelin/contracts 2.5.1
+Your Token Address on the Rinkeby Network
+- 0x3ffa57c476d290ef28ab148ddaa9e3d10754132d
 
 ### Dependencies
 For this project, you will need to have:
